@@ -1,6 +1,6 @@
 cask "notiferry" do
-  version "0.1.1,2"
-  sha256 "7fc0538389d952570ff2e20ec82440837ecff0bc7fcc55c77f1d8983e6395da1"
+  version "0.1.2,3"
+  sha256 "57b83569c034883239f02f136bdcff7d11c2794b767ae548d99f241a3d7523ef"
 
   url "https://notiferry.com/downloads/NotiFerry-#{version.csv.first}-#{version.csv.second}.dmg"
   name "NotiFerry"
@@ -14,6 +14,7 @@ cask "notiferry" do
     end
   end
 
+  auto_updates true
   depends_on macos: :sequoia
 
   app "NotiFerry.app"
