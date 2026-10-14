@@ -1,6 +1,6 @@
 cask "notiferry" do
-  version "0.1.3,4"
-  sha256 "edb0d7fc943d272a8dfe3f016ffcc76af8f7cf789191f1e8e796ba612ab733a7"
+  version "0.1.4,5"
+  sha256 "852996996f2e160e65619cd65b511e1154adbdf44b2b5ca400a54a47044fef86"
 
   url "https://notiferry.com/downloads/NotiFerry-#{version.csv.first}-#{version.csv.second}.dmg"
   name "NotiFerry"
