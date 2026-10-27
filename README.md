@@ -5,8 +5,8 @@ Official Homebrew casks for [NotiFerry](https://notiferry.com/) and [Loudwalk](h
 ## NotiFerry
 
 [NotiFerry](https://notiferry.com/) is a macOS menu-bar app that forwards
-Notification Center alerts from your Mac apps to your iPhone through the free
-ntfy app.
+Notification Center alerts from your Mac apps to your iPhone and Apple Watch
+through the free ntfy app.
 
 ```bash
 brew install --cask n2ctech/tap/notiferry
@@ -17,6 +17,11 @@ paid software: a 7-day trial that starts only after a test notification
 reaches your iPhone, then a one-time license.
 
 - Setup guide: <https://notiferry.com/mac-notifications-on-iphone>
+- Claude Code, Cursor & Codex notifications: <https://notiferry.com/claude-code-notifications-on-iphone> · <https://notiferry.com/cursor-and-codex-notifications-on-iphone>
+- Xcode build, `terminal-notifier`, and `osascript` workflows: <https://notiferry.com/xcode-build-notifications-on-iphone> · <https://notiferry.com/terminal-notifier-to-iphone>
+- ntfy on macOS, iPhone, and Apple Watch: <https://notiferry.com/ntfy-macos-notifications> · <https://notiferry.com/ntfy-apple-watch-notifications-from-mac>
+- Technical deep dive (`usernoted` Notification Center SQLite DB): <https://notiferry.com/macos-notification-center-sqlite-database>
+- All guides (EN / FR): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides>
 - Support: <https://notiferry.com/support>
 
 NotiFerry requires macOS 15 or later. The Mac must be awake for forwarding to
