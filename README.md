@@ -21,7 +21,9 @@ reaches your iPhone, then a one-time license.
 - Xcode build, `terminal-notifier`, and `osascript` workflows: <https://notiferry.com/xcode-build-notifications-on-iphone> · <https://notiferry.com/terminal-notifier-to-iphone>
 - ntfy on macOS, iPhone, and Apple Watch: <https://notiferry.com/ntfy-macos-notifications> · <https://notiferry.com/ntfy-apple-watch-notifications-from-mac>
 - Technical deep dive (`usernoted` Notification Center SQLite DB): <https://notiferry.com/macos-notification-center-sqlite-database>
+- Comparisons (NotiFerry vs. AhPushIt, Hermes, notifwd, Pushover & ntfy): <https://notiferry.com/mac-to-iphone-notification-apps> · <https://notiferry.com/pushover-vs-ntfy-macos-notifications>
 - All guides (EN / FR): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides>
+- LLM & AI reference (`llms.txt` / `llms-full.txt`): <https://notiferry.com/llms.txt> · <https://notiferry.com/llms-full.txt>
 - Support: <https://notiferry.com/support>
 
 NotiFerry requires macOS 15 or later. The Mac must be awake for forwarding to
