@@ -1,6 +1,6 @@
 cask "loudwalk" do
-  version "0.4.11,23"
-  sha256 "0e6a3733ea47b31a171c366732189c1d551ae011e196cb1fd1a697ee7198a3e3"
+  version "0.4.12,24"
+  sha256 "32ed9ec598f9e17592dad47952f5d0bc6b847368290945f29e9cb14a82e33e8b"
 
   url "https://downloads.loudwalk.app/releases/#{version.csv.first}-#{version.csv.second}/Loudwalk-#{version.csv.first}-#{version.csv.second}.zip"
   name "Loudwalk"
