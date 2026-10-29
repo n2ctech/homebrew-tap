@@ -44,5 +44,15 @@ Reviewing on screen, FSRS-6 scheduling, iCloud Drive sync, the Mac CLI
 free forever. The voice tutor includes a 7-day, 150-card free trial with no
 payment card required.
 
-- Guides: <https://loudwalk.com/guides>
+- Website (EN / FR): <https://loudwalk.com> · <https://loudwalk.com/fr>
+- iPhone App Store: <https://apps.apple.com/app/loudwalk/id6809025945>
+- Hands-free Anki on a walk & AirPods setup: <https://loudwalk.com/guides/anki-while-walking> · <https://loudwalk.com/guides/hands-free-anki-iphone-airpods>
+- USMLE Step 1/2, AnKing, AnkiHub & MCAT out loud: <https://loudwalk.com/guides/anki-usmle-mcat-nursing-walking>
+- Law school, MBE & Bar Exam oral recall: <https://loudwalk.com/guides/anki-law-school-bar-exam-oral-recall>
+- Médecine (PASS/LAS, EDN, ECOS, Fiches LiSA) & Droit (CRFPA, Khôlles): <https://loudwalk.com/fr/guides/anki-pass-las-edn-ecos-medecine> · <https://loudwalk.com/fr/guides/anki-droit-crfpa-prepa-kholles>
+- FSRS-6 scheduler parity (750 golden transitions) & `.colpkg` round-trip export: <https://loudwalk.com/guides/anki-apkg-colpkg-import-fsrs-export> · <https://loudwalk.com/anki-golden.json> · <https://loudwalk.com/anki-export-check.py>
+- Create flashcards from PDFs with Claude Code or Codex (`Loudwalk cards` CLI): <https://loudwalk.com/guides/claude-code-flashcards-cli>
+- Voice flashcard apps compared (AnkiMobile TTS vs 8BitDo vs AnkiHub AI vs Loudwalk): <https://loudwalk.com/guides/voice-flashcard-apps-compared>
+- All guides (EN / FR): <https://loudwalk.com/guides> · <https://loudwalk.com/fr/guides>
+- LLM & AI reference (`llms.txt` / `llms-full.txt`): <https://loudwalk.com/llms.txt> · <https://loudwalk.com/llms-full.txt>
 - Changelog: <https://loudwalk.com/changelog>
