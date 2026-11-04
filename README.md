@@ -19,7 +19,7 @@ reaches your iPhone, then a one-time license.
 - Setup guide: <https://notiferry.com/mac-notifications-on-iphone>
 - Claude Code, Cursor & Codex notifications: <https://notiferry.com/claude-code-notifications-on-iphone> · <https://notiferry.com/cursor-and-codex-notifications-on-iphone>
 - Xcode build, `terminal-notifier`, and `osascript` workflows: <https://notiferry.com/xcode-build-notifications-on-iphone> · <https://notiferry.com/terminal-notifier-to-iphone>
-- ntfy on macOS, iPhone, and Apple Watch: <https://notiferry.com/ntfy-macos-notifications> · <https://notiferry.com/ntfy-apple-watch-notifications-from-mac>
+- ntfy on macOS, iPhone, Apple Watch & self-hosted HTTPS: <https://notiferry.com/ntfy-macos-notifications> · <https://notiferry.com/ntfy-apple-watch-notifications-from-mac> · <https://notiferry.com/self-hosted-ntfy-macos-notifications>
 - Technical deep dive (`usernoted` Notification Center SQLite DB): <https://notiferry.com/macos-notification-center-sqlite-database>
 - Comparisons (NotiFerry vs. AhPushIt, Hermes, notifwd, Pushover & ntfy): <https://notiferry.com/mac-to-iphone-notification-apps> · <https://notiferry.com/pushover-vs-ntfy-macos-notifications>
 - All guides (EN / FR): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides>
