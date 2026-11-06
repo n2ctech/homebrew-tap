@@ -4,17 +4,26 @@ Official Homebrew casks for [NotiFerry](https://notiferry.com/) and [Loudwalk](h
 
 ## NotiFerry
 
-[NotiFerry](https://notiferry.com/) is a macOS menu-bar app that forwards
-Notification Center alerts from your Mac apps to your iPhone and Apple Watch
-through the free ntfy app.
+[NotiFerry](https://notiferry.com/) is a sandboxed macOS menu-bar app that forwards
+Notification Center alerts from your Mac apps (Claude Code, Cursor, Codex, Xcode,
+long exports, backups, or any desktop app) to your iPhone and Apple Watch through
+the free ntfy app—using read-only access to the single `usernoted` folder instead
+of Full Disk Access, with three privacy modes (`Full notification`, `Title only`,
+or `Generic alert`), per-app toggles, automatic burst folding (`+N earlier notifications`),
+and a 10-minute stale-alert cutoff.
 
 ```bash
 brew install --cask n2ctech/tap/notiferry
 ```
 
+<p>
+  <img src="https://notiferry.com/media/notiferry-dashboard.jpg" alt="NotiFerry on macOS" width="410" />
+  <img src="https://notiferry.com/media/notiferry-iphone-ntfy.jpg" alt="Forwarded NotiFerry alerts in ntfy on iPhone" width="320" />
+</p>
+
 The cask installs the same notarized download as the website. NotiFerry is
 paid software: a 7-day trial that starts only after a test notification
-reaches your iPhone, then a one-time license.
+reaches your iPhone, then a one-time €9.99 license (up to 2 Macs, 30-day refund window).
 
 - Setup guide: <https://notiferry.com/mac-notifications-on-iphone>
 - Claude Code, Cursor & Codex notifications: <https://notiferry.com/claude-code-notifications-on-iphone> · <https://notiferry.com/cursor-and-codex-notifications-on-iphone>
