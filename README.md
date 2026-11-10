@@ -7,7 +7,7 @@ Official Homebrew casks for [NotiFerry](https://notiferry.com/) and [Loudwalk](h
 [NotiFerry](https://notiferry.com/) is a sandboxed macOS menu-bar app that forwards
 Notification Center alerts from your Mac apps (Claude Code, Cursor, Codex, Xcode,
 long exports, backups, or any desktop app) to your iPhone and Apple Watch through
-the free ntfy app—using read-only access to the single `usernoted` folder instead
+the free ntfy app, using read-only access to the single `usernoted` folder instead
 of Full Disk Access, with three privacy modes (`Full notification`, `Title only`,
 or `Generic alert`), per-app toggles, automatic burst folding (`+N earlier notifications`),
 and a 10-minute stale-alert cutoff.
@@ -25,13 +25,15 @@ The cask installs the same notarized download as the website. NotiFerry is
 paid software: a 7-day trial that starts only after a test notification
 reaches your iPhone, then a one-time €9.99 license (up to 2 Macs, 30-day refund window).
 
+- Website (EN / FR / JA): <https://notiferry.com> · <https://notiferry.com/fr> · <https://notiferry.com/ja>
 - Setup guide: <https://notiferry.com/mac-notifications-on-iphone>
 - Claude Code, Cursor & Codex notifications: <https://notiferry.com/claude-code-notifications-on-iphone> · <https://notiferry.com/cursor-and-codex-notifications-on-iphone>
 - Xcode build, `terminal-notifier`, and `osascript` workflows: <https://notiferry.com/xcode-build-notifications-on-iphone> · <https://notiferry.com/terminal-notifier-to-iphone>
 - ntfy on macOS, iPhone, Apple Watch & self-hosted HTTPS: <https://notiferry.com/ntfy-macos-notifications> · <https://notiferry.com/ntfy-apple-watch-notifications-from-mac> · <https://notiferry.com/self-hosted-ntfy-macos-notifications>
 - Technical deep dive (`usernoted` Notification Center SQLite DB): <https://notiferry.com/macos-notification-center-sqlite-database>
 - Comparisons (NotiFerry vs. AhPushIt, Hermes, notifwd, Pushover & ntfy): <https://notiferry.com/mac-to-iphone-notification-apps> · <https://notiferry.com/pushover-vs-ntfy-macos-notifications>
-- All guides (EN / FR): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides>
+- All guides (EN / FR / JA): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides> · <https://notiferry.com/ja/guides>
+- Activate license (EN / FR / JA): <https://notiferry.com/activate> · <https://notiferry.com/fr/activate> · <https://notiferry.com/ja/activate>
 - LLM & AI reference (`llms.txt` / `llms-full.txt`): <https://notiferry.com/llms.txt> · <https://notiferry.com/llms-full.txt>
 - Support: <https://notiferry.com/support>
 
