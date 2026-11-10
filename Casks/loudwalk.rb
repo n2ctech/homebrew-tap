@@ -1,6 +1,6 @@
 cask "loudwalk" do
-  version "0.4.14,26"
-  sha256 "85a1a0637c6f547b3db1406cf3736dc059bf73ad0799360f2aaae0a5b4f1c816"
+  version "0.4.15,27"
+  sha256 "d6fb2a028707f75c6331312fccfb46b00d6d4cc7253035fcaa746ec30968e2e5"
 
   url "https://downloads.loudwalk.app/releases/#{version.csv.first}-#{version.csv.second}/Loudwalk-#{version.csv.first}-#{version.csv.second}.zip"
   name "Loudwalk"
@@ -27,7 +27,7 @@ cask "loudwalk" do
 
   caveats <<~EOS
     On-screen review, FSRS-6 scheduling, iCloud Drive sync, and Anki import/export
-    are free forever. The voice tutor is a subscription after a 7-day, 150-card
-    free trial with no payment card required.
+    are free forever. The voice tutor includes 10 free voice cards with no payment
+    card required, followed by a 7-day App Store free trial on Walking plans.
   EOS
 end
