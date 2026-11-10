@@ -4,12 +4,12 @@ Official Homebrew casks for [NotiFerry](https://notiferry.com/) and [Loudwalk](h
 
 ## NotiFerry
 
-[NotiFerry](https://notiferry.com/) is a sandboxed macOS menu-bar app that forwards
-Notification Center alerts from your Mac apps (Claude Code, Cursor, Codex, Xcode,
-long exports, backups, or any desktop app) to your iPhone and Apple Watch through
-the free ntfy app, using read-only access to the single `usernoted` folder instead
-of Full Disk Access, with three privacy modes (`Full notification`, `Title only`,
-or `Generic alert`), per-app toggles, automatic burst folding (`+N earlier notifications`),
+[NotiFerry](https://notiferry.com/) is a sandboxed macOS menu-bar app (native English,
+French, and Japanese UI) that forwards Notification Center alerts from your Mac apps
+(Claude Code, Cursor, Codex, Xcode, long exports, backups, or any desktop app) to your
+iPhone and Apple Watch through the free ntfy app, using read-only access to the single
+`usernoted` folder instead of Full Disk Access, with three privacy modes (`Full notification`,
+`Title only`, or `Generic alert`), per-app toggles, automatic burst folding (`+N earlier notifications`),
 and a 10-minute stale-alert cutoff.
 
 ```bash
@@ -35,7 +35,7 @@ reaches your iPhone, then a one-time €9.99 license (up to 2 Macs, 30-day refun
 - All guides (EN / FR / JA): <https://notiferry.com/guides> · <https://notiferry.com/fr/guides> · <https://notiferry.com/ja/guides>
 - Activate license (EN / FR / JA): <https://notiferry.com/activate> · <https://notiferry.com/fr/activate> · <https://notiferry.com/ja/activate>
 - LLM & AI reference (`llms.txt` / `llms-full.txt`): <https://notiferry.com/llms.txt> · <https://notiferry.com/llms-full.txt>
-- Support: <https://notiferry.com/support>
+- Support (EN / FR / JA): <https://notiferry.com/support> · <https://notiferry.com/fr/support> · <https://notiferry.com/ja/support>
 
 NotiFerry requires macOS 15 or later. The Mac must be awake for forwarding to
 work, and delivery through ntfy is not end-to-end encrypted.

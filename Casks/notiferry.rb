@@ -1,8 +1,8 @@
 # Mirror of n2ctech/homebrew-tap (Casks/notiferry.rb).
 # Update version and SHA-256 from the final release manifest with every release.
 cask "notiferry" do
-  version "0.1.6,7"
-  sha256 "92becbd40cf5aad2696c611b8df41331abc2696f2518248118ff9d5bdf825d16"
+  version "0.1.7,8"
+  sha256 "c5773d3d802ce8fe3c9ec7adf0e7feead16efd441ec71e06de1c655595fa9726"
 
   url "https://notiferry.com/downloads/NotiFerry-#{version.csv.first}-#{version.csv.second}.dmg"
   name "NotiFerry"
